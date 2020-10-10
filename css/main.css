@@ -30,10 +30,50 @@ section {
   opacity: 0;
 }
 
-.left p {
+.recieve {
+  background: #fff;
+}
+
+.sent {
   background: #e1ffc7;
+}
+
+.m1 {
   position: absolute;
-  margin-top: -25%;
+  margin-bottom: 50%;
+  right: 20%;
+  color: black;
+  padding: 1em;
+  border-radius: 5px;
+  width: 20vw;
+  text-align: left;
+}
+
+.m2 {
+  position: absolute;
+  margin-bottom: 37%;
+  right: 17%;
+  color: black;
+  padding: 1em;
+  border-radius: 5px;
+  width: 20vw;
+  text-align: left;
+}
+
+.m3{
+  position: absolute;
+  margin-bottom: 24%;
+  right: 20%;
+  color: black;
+  padding: 1em;
+  border-radius: 5px;
+  width: 20vw;
+  text-align: left;
+}
+
+.m4 {
+  position: absolute;
+  margin-bottom: 11%;
   right: 17%;
   color: black;
   padding: 1em;
